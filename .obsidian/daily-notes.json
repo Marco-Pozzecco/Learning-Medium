@@ -1,0 +1,6 @@
+{
+  "format": "YYYY/MM - MMMM/YYYY-MM-DD",
+  "folder": "01. Journal",
+  "template": "00. Meta/01. Template/00. Daily",
+  "autorun": true
+}

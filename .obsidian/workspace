@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "04. Documentation/Introduzione ad Obsidian.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,6 +26,7 @@
       {
         "id": "842ad95bd6b0f302",
         "type": "tabs",
+        "dimension": 73.11999999999999,
         "children": [
           {
             "id": "00101a13ca16edf3",
@@ -60,36 +61,12 @@
           }
         ],
         "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "2c4a4ee436effaa4",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "17a455ab0f4f74e2",
+        "id": "15a2ad319b210edf",
         "type": "tabs",
+        "dimension": 26.88,
         "children": [
-          {
-            "id": "0c6024b9e5a37dae",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "9b0f50d49bcebd8e",
             "type": "leaf",
@@ -105,6 +82,80 @@
               "type": "reminder-list",
               "state": {}
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c4a4ee436effaa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "43b8b5b11aec1999",
+        "type": "tabs",
+        "dimension": 24.09927942353883,
+        "children": [
+          {
+            "id": "7d56bfbab329d8d1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "04. Documentation/Introduzione ad Obsidian.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.18462326225858128,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1890e4f85260fa8",
+        "type": "tabs",
+        "dimension": 75.90072057646117,
+        "children": [
+          {
+            "id": "0c6024b9e5a37dae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04. Documentation/Introduzione ad Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           },
           {
             "id": "4724550f05b41f6a",
@@ -114,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,6 +173,8 @@
   },
   "active": "2258f56628e6d242",
   "lastOpenFiles": [
+    "04. Documentation/Introduzione ad Obsidian.md",
+    "2022-06-12.md",
     "Home.md",
     "00. Meta/01. Template/03. Domain.md",
     "00. Meta/01. Template/02. Map of Content.md",

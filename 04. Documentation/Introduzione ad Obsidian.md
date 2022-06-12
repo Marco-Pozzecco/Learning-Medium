@@ -1,3 +1,5 @@
+type:: #documentation
+
 # Introduzione ad Obsidian
 
 Obsidian è un editor di testo costruito su linguaggio di markup chiamato [Markdown](https://it.wikipedia.org/wiki/Markdown).
@@ -27,5 +29,4 @@ Un blocco di codice si aggiunge con il triplice tick:
 <!-- come segue: ``` -->
 ```
 
-## Organizzazione delle cartelle
 
