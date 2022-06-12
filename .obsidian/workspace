@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eee68e2317e4763",
+        "id": "2258f56628e6d242",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00. Meta/01. Template/03. Domain.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Meta/01. Template/03. Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +113,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8eee68e2317e4763",
+  "active": "2258f56628e6d242",
   "lastOpenFiles": [
     "00. Meta/01. Template/03. Domain.md",
     "00. Meta/01. Template/02. Map of Content.md",
