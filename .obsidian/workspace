@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04. Documentation/Introduzione ad Obsidian.md",
+            "file": "01. Journal/2022/06 - June/2022-06-12.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "842ad95bd6b0f302",
         "type": "tabs",
-        "dimension": 73.11999999999999,
+        "dimension": 73.12,
         "children": [
           {
             "id": "00101a13ca16edf3",
@@ -65,7 +65,7 @@
       {
         "id": "15a2ad319b210edf",
         "type": "tabs",
-        "dimension": 26.88,
+        "dimension": 26.880000000000006,
         "children": [
           {
             "id": "9b0f50d49bcebd8e",
@@ -96,7 +96,7 @@
       {
         "id": "43b8b5b11aec1999",
         "type": "tabs",
-        "dimension": 24.09927942353883,
+        "dimension": 25.218658892128282,
         "children": [
           {
             "id": "7d56bfbab329d8d1",
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Documentation/Introduzione ad Obsidian.md",
+                "file": "01. Journal/2022/06 - June/2022-06-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
       {
         "id": "f1890e4f85260fa8",
         "type": "tabs",
-        "dimension": 75.90072057646117,
+        "dimension": 74.78134110787173,
         "children": [
           {
             "id": "0c6024b9e5a37dae",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Documentation/Introduzione ad Obsidian.md",
+                "file": "01. Journal/2022/06 - June/2022-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,6 +174,7 @@
   },
   "active": "2258f56628e6d242",
   "lastOpenFiles": [
+    "01. Journal/2022/06 - June/2022-06-12.md",
     "04. Documentation/Introduzione ad Obsidian.md",
     "2022-06-12.md",
     "Home.md",
@@ -181,7 +183,6 @@
     "00. Meta/01. Template/01. Concept.md",
     "00. Meta/01. Template/00. Daily.md",
     "00. Meta/01. Template/Note mover.md",
-    "Dashboard.md",
-    "README.md"
+    "Dashboard.md"
   ]
 }
