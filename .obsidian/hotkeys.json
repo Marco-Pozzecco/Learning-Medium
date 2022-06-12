@@ -1,0 +1,16 @@
+{
+  "dataview:dataview-force-refresh-views": [],
+  "various-complements:reload-custom-dictionaries": [],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": []
+}

@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "lineWrap": true,
+  "showIndentGuide": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "readableLineLength": true,
+  "spellcheckLanguages": [
+    "it",
+    "en-GB"
+  ],
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "",
+  "communityPluginSortOrder": "release"
+}
