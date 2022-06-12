@@ -10,5 +10,6 @@
   "minimal-style@@h3": "1.2em",
   "minimal-style@@h2": "1.5em",
   "minimal-style@@h1": "1.5em",
-  "minimal-style@@tag-border-width": "None"
+  "minimal-style@@tag-border-width": "None",
+  "minimal-style@@checkbox-shape": "checkbox-square"
 }
