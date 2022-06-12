@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "01. Journal/2022/06 - June/2022-06-12.md": [
+      {
+        "title": "Studia CSS",
+        "time": "2022-06-13",
+        "rowNumber": 7
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
