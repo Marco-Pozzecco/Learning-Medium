@@ -1,5 +1,7 @@
 {
-  "_apiKeys": {},
-  "subdomain": "",
+  "_apiKeys": {
+    "sekund": "MQkbUwXIRXO9WNfXFLM1Gb6DktlmvVLCsxc5hNcKYTvw56Ehsf3zNBnErh8RBepK"
+  },
+  "subdomain": "sekund",
   "sekundFolderPath": "00. Meta/03. Shared Knowledge"
 }
