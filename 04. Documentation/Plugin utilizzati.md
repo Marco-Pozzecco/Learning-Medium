@@ -1,4 +1,4 @@
-                 # Plugin installati
+# Plugin installati
 
 ## General
 
@@ -22,6 +22,9 @@
 - [CustomJS](obsidian://show-plugin?id=customjs): per creare codice JavaScript riutilizzabile.
 - 
 ## Latex
+
+- [Latex suite](obsidian://show-plugin?id=obsidian-latex-suite): per migliorare l'esperienza di scrittura in latex.
+
 
 ## Task management
 

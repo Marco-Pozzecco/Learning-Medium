@@ -165,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,13 +176,13 @@
   "lastOpenFiles": [
     "04. Documentation/Plugin utilizzati.md",
     "04. Documentation/Introduzione ad Obsidian.md",
-    "00. Meta/01. Template/Note mover.md",
+    "01. Journal/2022/06 - June/2022-06-12.md",
     "00. Meta/01. Template/03. Domain.md",
     "00. Meta/01. Template/02. Map of Content.md",
     "00. Meta/01. Template/01. Concept.md",
+    "00. Meta/01. Template/00. Daily.md",
+    "00. Meta/01. Template/Note mover.md",
     "Excalibrain.md",
-    "Dashboard.md",
-    "01. Journal/2022/06 - June/2022-06-12.md",
-    "2022-06-12.md"
+    "Dashboard.md"
   ]
 }

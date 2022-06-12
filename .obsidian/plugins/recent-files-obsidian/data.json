@@ -9,8 +9,8 @@
       "path": "04. Documentation/Introduzione ad Obsidian.md"
     },
     {
-      "basename": "Note mover",
-      "path": "00. Meta/01. Template/Note mover.md"
+      "basename": "2022-06-12",
+      "path": "01. Journal/2022/06 - June/2022-06-12.md"
     },
     {
       "basename": "03. Domain",
@@ -25,6 +25,14 @@
       "path": "00. Meta/01. Template/01. Concept.md"
     },
     {
+      "basename": "00. Daily",
+      "path": "00. Meta/01. Template/00. Daily.md"
+    },
+    {
+      "basename": "Note mover",
+      "path": "00. Meta/01. Template/Note mover.md"
+    },
+    {
       "basename": "Excalibrain",
       "path": "Excalibrain.md"
     },
@@ -33,16 +41,8 @@
       "path": "Dashboard.md"
     },
     {
-      "basename": "2022-06-12",
-      "path": "01. Journal/2022/06 - June/2022-06-12.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
-    },
-    {
-      "basename": "00. Daily",
-      "path": "00. Meta/01. Template/00. Daily.md"
     }
   ],
   "omittedPaths": [],
