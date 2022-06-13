@@ -104,6 +104,10 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1655068377756
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655107890311
         }
       }
     },
@@ -120,6 +124,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1655068616228
+        }
+      }
+    },
+    "Excalidraw": {
+      "Excalidraw": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655107901199
         }
       }
     }
