@@ -7,8 +7,13 @@
         "id": "49ee48ee191a4d34",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00. Meta/01. Template/Note mover.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -100,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00. Meta/01. Template/Note mover.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00. Meta/01. Template/Note mover.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +166,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,14 +175,14 @@
   },
   "active": "49ee48ee191a4d34",
   "lastOpenFiles": [
+    "00. Meta/01. Template/Note mover.md",
+    "00. Meta/01. Template/03. Domain.md",
+    "00. Meta/01. Template/02. Map of Content.md",
+    "00. Meta/01. Template/01. Concept.md",
+    "00. Meta/01. Template/00. Daily.md",
     "Home.md",
     "Dashboard.md",
     "Excalibrain.md",
-    "00. Meta/01. Template/00. Daily.md",
-    "00. Meta/01. Template/01. Concept.md",
-    "00. Meta/01. Template/02. Map of Content.md",
-    "00. Meta/01. Template/03. Domain.md",
-    "00. Meta/01. Template/Note mover.md",
     "00. Meta/03. Shared Knowledge/README.md",
     "01. Journal/2022/06 - June/2022-06-12.md"
   ]
