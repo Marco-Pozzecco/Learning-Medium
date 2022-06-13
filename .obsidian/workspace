@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00. Meta/01. Template/01. Concept.md",
+            "file": "00. Meta/01. Template/03. Domain.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Meta/01. Template/01. Concept.md",
+                "file": "00. Meta/01. Template/03. Domain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Meta/01. Template/01. Concept.md",
+                "file": "00. Meta/01. Template/03. Domain.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,9 +174,9 @@
   },
   "active": "b364a46c6d7ac9f2",
   "lastOpenFiles": [
-    "00. Meta/01. Template/01. Concept.md",
-    "00. Meta/01. Template/02. Map of Content.md",
     "00. Meta/01. Template/03. Domain.md",
+    "00. Meta/01. Template/02. Map of Content.md",
+    "00. Meta/01. Template/01. Concept.md",
     "00. Meta/01. Template/Note mover.md",
     "00. Meta/03. Shared Knowledge/README.md",
     "00. Meta/01. Template/00. Daily.md",
