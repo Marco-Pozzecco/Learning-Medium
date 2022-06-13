@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b364a46c6d7ac9f2",
+        "id": "49ee48ee191a4d34",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00. Meta/01. Template/03. Domain.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -105,7 +100,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Meta/01. Template/03. Domain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Meta/01. Template/03. Domain.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,17 +165,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b364a46c6d7ac9f2",
+  "active": "49ee48ee191a4d34",
   "lastOpenFiles": [
-    "00. Meta/01. Template/03. Domain.md",
-    "00. Meta/01. Template/02. Map of Content.md",
+    "Home.md",
+    "Dashboard.md",
+    "Excalibrain.md",
+    "00. Meta/01. Template/00. Daily.md",
     "00. Meta/01. Template/01. Concept.md",
+    "00. Meta/01. Template/02. Map of Content.md",
+    "00. Meta/01. Template/03. Domain.md",
     "00. Meta/01. Template/Note mover.md",
     "00. Meta/03. Shared Knowledge/README.md",
-    "00. Meta/01. Template/00. Daily.md",
-    "01. Journal/2022/06 - June/2022-06-12.md",
-    "01. Journal/2022/06 - June/2022-06-13.md",
-    "04. Documentation/Introduzione ad Obsidian.md",
-    "04. Documentation/Plugin utilizzati.md"
+    "01. Journal/2022/06 - June/2022-06-12.md"
   ]
 }

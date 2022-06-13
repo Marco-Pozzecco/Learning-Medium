@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "03. Domain",
-      "path": "00. Meta/01. Template/03. Domain.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Excalibrain",
+      "path": "Excalibrain.md"
+    },
+    {
+      "basename": "00. Daily",
+      "path": "00. Meta/01. Template/00. Daily.md"
+    },
+    {
+      "basename": "01. Concept",
+      "path": "00. Meta/01. Template/01. Concept.md"
     },
     {
       "basename": "02. Map of Content",
       "path": "00. Meta/01. Template/02. Map of Content.md"
     },
     {
-      "basename": "01. Concept",
-      "path": "00. Meta/01. Template/01. Concept.md"
+      "basename": "03. Domain",
+      "path": "00. Meta/01. Template/03. Domain.md"
     },
     {
       "basename": "Note mover",
@@ -21,28 +33,12 @@
       "path": "00. Meta/03. Shared Knowledge/README.md"
     },
     {
-      "basename": "00. Daily",
-      "path": "00. Meta/01. Template/00. Daily.md"
-    },
-    {
       "basename": "Introduzione ad Obsidian",
       "path": "04. Documentation/Introduzione ad Obsidian.md"
     },
     {
       "basename": "Plugin utilizzati",
       "path": "04. Documentation/Plugin utilizzati.md"
-    },
-    {
-      "basename": "Excalibrain",
-      "path": "Excalibrain.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     }
   ],
   "omittedPaths": [],
