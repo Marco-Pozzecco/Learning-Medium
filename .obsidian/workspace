@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04. Documentation/Plugin utilizzati.md",
+            "file": "01. Journal/2022/06 - June/2022-06-13.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "842ad95bd6b0f302",
         "type": "tabs",
-        "dimension": 73.11999999999999,
+        "dimension": 73.12,
         "children": [
           {
             "id": "00101a13ca16edf3",
@@ -65,7 +65,7 @@
       {
         "id": "15a2ad319b210edf",
         "type": "tabs",
-        "dimension": 26.88,
+        "dimension": 26.880000000000003,
         "children": [
           {
             "id": "9b0f50d49bcebd8e",
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Documentation/Plugin utilizzati.md",
+                "file": "01. Journal/2022/06 - June/2022-06-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Documentation/Plugin utilizzati.md",
+                "file": "01. Journal/2022/06 - June/2022-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +174,7 @@
   },
   "active": "b364a46c6d7ac9f2",
   "lastOpenFiles": [
+    "01. Journal/2022/06 - June/2022-06-13.md",
     "04. Documentation/Plugin utilizzati.md",
     "04. Documentation/Introduzione ad Obsidian.md",
     "01. Journal/2022/06 - June/2022-06-12.md",
@@ -182,7 +183,6 @@
     "00. Meta/01. Template/01. Concept.md",
     "00. Meta/01. Template/00. Daily.md",
     "00. Meta/01. Template/Note mover.md",
-    "Excalibrain.md",
-    "Dashboard.md"
+    "Excalibrain.md"
   ]
 }
