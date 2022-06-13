@@ -7,16 +7,19 @@ Tale linguaggio può facilmente essere convertito in HTML, il che rende Obsidian
 
 ## Sintassi di base
 
-- Headings
-	- Gli heading da 1 a 6 si scrivono con la seguente sintassi:
-		- `# Heading di primo livello`
-		- `## Heading di secondo livello`
-		- etc.
-- **Bold**
-	- `**Testo**`
-- *Italic*
-	- `*Testo*`
-- `inline code (metti sopra il cursore)`
+Headings
+Gli heading da 1 a 6 si scrivono con la seguente sintassi:
+- `# Heading di primo livello`
+- `## Heading di secondo livello`
+- etc.
+
+**Bold**
+- `**Testo**`
+
+*Italic*
+- `*Testo*`
+
+`inline code (metti sopra il cursore)`
 
 I link si dividono in:
 - Wikilink `[[wikilink]]`
@@ -29,4 +32,16 @@ Un blocco di codice si aggiunge con il triplice tick:
 <!-- come segue: ``` -->
 ```
 
+Latex inline: `$contenuto$`
+Latex block:
+```
+$$
+contenuto
+$$
+```
+
+Latex permette di scrivere simboli propri della matematica:
+$$
+f(x) = \frac{x(x-1)}{2}
+$$
 
