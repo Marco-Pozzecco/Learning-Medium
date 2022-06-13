@@ -14,17 +14,18 @@
 - [Customizable sidebar](obsidian://show-plugin?id=customizable-sidebar): per modificare l'aspetto della barra laterale.
 
 ## Studio
+
 - [Excalibrain](obsidian://show-plugin?id=excalibrain): per visualizzare e navigare il proprio grafo.
 - [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin): lavagna per disegnare mappe concettuali e schemi.
 
 ## Coding
 
 - [CustomJS](obsidian://show-plugin?id=customjs): per creare codice JavaScript riutilizzabile.
-- 
+
+
 ## Latex
 
 - [Latex suite](obsidian://show-plugin?id=obsidian-latex-suite): per migliorare l'esperienza di scrittura in latex.
-
 
 ## Task management
 
@@ -33,4 +34,6 @@
 - 
 
 ## Altri plugin interessanti
+(non installati)
+
 

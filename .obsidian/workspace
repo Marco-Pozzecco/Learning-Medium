@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Journal/2022/06 - June/2022-06-13.md",
+            "file": "04. Documentation/Plugin utilizzati.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01. Journal/2022/06 - June/2022-06-13.md",
+                "file": "04. Documentation/Plugin utilizzati.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Journal/2022/06 - June/2022-06-13.md",
+                "file": "04. Documentation/Plugin utilizzati.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,8 +173,8 @@
   },
   "active": "b364a46c6d7ac9f2",
   "lastOpenFiles": [
-    "01. Journal/2022/06 - June/2022-06-13.md",
     "04. Documentation/Plugin utilizzati.md",
+    "01. Journal/2022/06 - June/2022-06-13.md",
     "04. Documentation/Introduzione ad Obsidian.md",
     "01. Journal/2022/06 - June/2022-06-12.md",
     "00. Meta/01. Template/03. Domain.md",
