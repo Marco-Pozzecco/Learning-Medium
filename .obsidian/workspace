@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00. Meta/01. Template/Note mover.md",
+            "file": "01. Journal/2022/06 - June/2022-06-13.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "842ad95bd6b0f302",
         "type": "tabs",
-        "dimension": 73.12,
+        "dimension": 73.11999999999999,
         "children": [
           {
             "id": "00101a13ca16edf3",
@@ -65,7 +65,7 @@
       {
         "id": "15a2ad319b210edf",
         "type": "tabs",
-        "dimension": 26.880000000000006,
+        "dimension": 26.88,
         "children": [
           {
             "id": "9b0f50d49bcebd8e",
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Meta/01. Template/Note mover.md",
+                "file": "01. Journal/2022/06 - June/2022-06-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Meta/01. Template/Note mover.md",
+                "file": "01. Journal/2022/06 - June/2022-06-13.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,7 @@
   },
   "active": "49ee48ee191a4d34",
   "lastOpenFiles": [
+    "01. Journal/2022/06 - June/2022-06-13.md",
     "00. Meta/01. Template/Note mover.md",
     "00. Meta/01. Template/03. Domain.md",
     "00. Meta/01. Template/02. Map of Content.md",
@@ -183,7 +184,6 @@
     "Home.md",
     "Dashboard.md",
     "Excalibrain.md",
-    "00. Meta/03. Shared Knowledge/README.md",
-    "01. Journal/2022/06 - June/2022-06-12.md"
+    "00. Meta/03. Shared Knowledge/README.md"
   ]
 }
