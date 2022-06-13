@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04. Documentation/Introduzione ad Obsidian.md",
+            "file": "00. Meta/01. Template/01. Concept.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Documentation/Introduzione ad Obsidian.md",
+                "file": "00. Meta/01. Template/01. Concept.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Documentation/Introduzione ad Obsidian.md",
+                "file": "00. Meta/01. Template/01. Concept.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,15 +174,15 @@
   },
   "active": "b364a46c6d7ac9f2",
   "lastOpenFiles": [
-    "04. Documentation/Introduzione ad Obsidian.md",
-    "04. Documentation/Plugin utilizzati.md",
+    "00. Meta/01. Template/01. Concept.md",
+    "00. Meta/01. Template/02. Map of Content.md",
+    "00. Meta/01. Template/03. Domain.md",
+    "00. Meta/01. Template/Note mover.md",
+    "00. Meta/03. Shared Knowledge/README.md",
+    "00. Meta/01. Template/00. Daily.md",
     "01. Journal/2022/06 - June/2022-06-12.md",
     "01. Journal/2022/06 - June/2022-06-13.md",
-    "00. Meta/01. Template/03. Domain.md",
-    "00. Meta/01. Template/02. Map of Content.md",
-    "00. Meta/01. Template/01. Concept.md",
-    "00. Meta/01. Template/00. Daily.md",
-    "00. Meta/01. Template/Note mover.md",
-    "Excalibrain.md"
+    "04. Documentation/Introduzione ad Obsidian.md",
+    "04. Documentation/Plugin utilizzati.md"
   ]
 }
