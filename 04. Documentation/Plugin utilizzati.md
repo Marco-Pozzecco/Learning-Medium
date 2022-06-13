@@ -4,12 +4,18 @@
 
 - [Annotator](obsidian://show-plugin?id=obsidian-annotator): per visualizzare pdf ed epub all'interno di obsidian e creare annotazioni di tali documenti.
 - [Obsidian editor shortcut](obsidian://show-plugin?id=obsidian-editor-shortcuts): per delle shortcut simili a quelle di VSC.
-- [Copy block link](obsidian://show-plugin?id=obsidian-copy-block-link): per copiare il link ad un blocco oppure ad un heading.
-- [Dataview](obsidian://show-plugin?id=dataview): per fare query del proprio grafo (è un requisito per molti plugin).
-- [Hover Editor](obsidian://show-plugin?id=obsidian-hover-editor): amplia le funzionalità di modifica dei file quando si fa hover sopra un link.
+
 - [Obsidian Charts](obsidian://show-plugin?id=obsidian-charts): permette di creare dei grafici statici o dinamici con JavaScript.
 - [Obsidian Git](obsidian://show-plugin?id=obsidian-git): per il versionamento e backup della knowledge base.
 - [Omnisearch](obsidian://show-plugin?id=omnisearch): amplia le funzionalità di ricerca.
+- [Outliner](obsidian://show-plugin?id=obsidian-outliner): aggiunge funzionalità di outlining (migliora l'esperienza con le liste).
+- [Recent Files](obsidian://show-plugin?id=recent-files-obsidian): aggiunge una schermata con i file recentemente aperti.
+
+## Funzionalità
+
+- [Copy block link](obsidian://show-plugin?id=obsidian-copy-block-link): per copiare il link ad un blocco oppure ad un heading.
+- [Dataview](obsidian://show-plugin?id=dataview): per fare query del proprio grafo (è un requisito per molti plugin).
+- [Hover Editor](obsidian://show-plugin?id=obsidian-hover-editor): amplia le funzionalità di modifica dei file quando si fa hover sopra un link.
 
 ## Aspetto e personalizzazione
 
