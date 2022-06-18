@@ -1,0 +1,7 @@
+.cm-s-obsidian span.cm-blockid {
+	display: none;
+}
+div.cm-active.cm-line span.cm-blockid {
+    color: var(--text-faint);
+	display: inline;
+}

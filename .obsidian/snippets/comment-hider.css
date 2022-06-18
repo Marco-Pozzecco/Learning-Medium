@@ -1,0 +1,13 @@
+.cm-s-obsidian span.cm-comment, .token.comment {
+    font-size: 0.8em;
+	display: none;
+}
+div.cm-active.cm-line span.cm-comment {
+    font-size: 0.8em;
+	display: inline;
+}
+
+.HyperMD-codeblock span.cm-comment {
+	display: inline !important;
+	font-size: 1em !important;
+}	

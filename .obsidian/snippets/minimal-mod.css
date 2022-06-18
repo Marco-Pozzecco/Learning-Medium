@@ -1,0 +1,62 @@
+span.cm-hashtag {
+	color: var(--text-accent) !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	border-width: 0px !important;
+	font-size: 1em !important;
+	vertical-align: baseline !important;
+}
+
+span.cm-hashtag:hover {
+	color: var(--text-accent-hover) !important;
+}
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+    background-color: var(--background-primary-alt);
+    vertical-align: baseline;
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+
+/* Fix line width */
+.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-content {
+    max-width: var(--line-width-wide);
+}
+
+body:not(.is-mobile).minimal-folding .markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer {
+    max-width: var(--line-width-wide);
+}
+
+
+/* Edit embed block button */
+.markdown-source-view.mod-cm6.is-live-preview.is-readable-line-width .cm-embed-block>.edit-block-button {
+    width: 30px!important;
+    padding-left: 5px!important;
+    transform: none!important;
+    margin-right: 30px !important;
+}
+
+.markdown-source-view.mod-cm6 .edit-block-button {
+    padding: 5px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    display: flex;
+    opacity: 0;
+    transition: opacity 500ms;
+    /* background-color: var(--interactive-accent); */
+    /* color: var(--text-on-accent); */ 
+	/* border: 1px solid;
+    border-radius: 5px; */ 
+    cursor: pointer;
+	top: 0;
+    right: auto;
+    left: 0;
+}
+
+.cm-s-obsidian span.obsidian-search-match-highlight {
+    background-color: var(--text-highlight-bg);
+    box-shadow: 0 0 0 1px var(--text-accent) ; 
+    mix-blend-mode: multiply;
+    border-radius: 2px;
+}

@@ -1,0 +1,6 @@
+div.cm-active.cm-line {
+	background-color: var(--background-secondary);
+	border: 1px solid var(--background-tertiary);
+    border-radius: 4px;
+	/* padding-left: 4px !important; */
+}

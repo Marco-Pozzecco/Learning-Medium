@@ -1,3 +1,9 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "minimal-mod",
+    "comment-hider",
+    "blockid hider"
+  ]
 }
