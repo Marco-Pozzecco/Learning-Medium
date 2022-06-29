@@ -1,24 +1,25 @@
-const concept = "#concept";
-const moc = "#moc";
-const domain = "#domain";
-
-
 class metadata {
     // Trova la moc che punta al file corrente
     // Interseca l'insieme delle mocs con l'insieme degli inlink al file corrente
     getMOCs(dv) { 
+        const concept = "#concept"
+        const moc = "#moc"
+        const domain = "#domain"
         let inlinks = dv.current().file.inlinks
         let mocs = dv.pages(moc).file.link
         let intersection = mocs.filter(e => inlinks.includes(e))
-        this.display(intersection, "Argomento", dv)
+        this.display(intersection, "MOCS", dv)
     }
     // interseca l'insieme dei file in elaborazione con l'insieme degli inlinks alla pagina corrente
     // viene utilizzato nelle pagine #materia
     getElab(dv) {
-        let inlinks = dv.current().file.inlinks
-        let data_elab = dv.pages("#status/elaborazione")
-        let intersection_elab = inlinks.filter(e => data_elab.file.link.includes(e))
-        this.display(intersection_elab, "Elaborazione", dv)
+        var data_elab = dv.pages("#status/elaborazione AND #concept OR #moc")
+        var domainSpaces = data_elab.domain
+        var uniqueDomains = domainSpaces.filter((item, i) => domainSpaces.indexOf(item) === i)
+        for (let i = 0; i < uniqueDomains.length; i++) {
+            var elab_pages = data_elab.where( p => p.file.outlinks.includes(uniqueDomains[i]) ).sort( k => k.file.ctime, 'asc').file.link
+            this.display(elab_pages, uniqueDomains[i], dv)
+        }
     }
     // interseca l'insieme dei file in ricerca con l'insieme degli inlinks alla pagina corrente
     // viene utilizzato nelle pagine #materia
@@ -31,13 +32,13 @@ class metadata {
     // funzione per mostrare in modo uniforme le informazioni
     // viene utilizzato all'interno delle altre funzioni
     display(arr, type, dv) {
-        if (type == "Argomento") {
+        if (type == "MOCS") {
             if (arr.length > 0) {
                 dv.span("###### " + type)
                 dv.list(arr)
             } else {
                 dv.span("###### " + type)
-                dv.el("ul","<li>Nessun " + type.toLowerCase() + "</li>")
+                dv.el("ul","<li>" + "L'elemento non è contenuto in nessuna " + type.toLowerCase() + "</li>")
             }
         } else {
             if (arr.length > 0) {
@@ -45,7 +46,7 @@ class metadata {
                 dv.list(arr)
             } else {
                 dv.span("###### " + type)
-                dv.el("ul","<li>Nessun elemento in " + type.toLowerCase() + "</li>")
+                dv.el("ul","<li>Nessun elemento in " + type + "</li>")
             }
         }
     }
