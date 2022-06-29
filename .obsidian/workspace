@@ -7,13 +7,8 @@
         "id": "49ee48ee191a4d34",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01. Journal/2022/06 - June/2022-06-29.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -74,6 +69,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "dbf4273d060d9bd1",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       }
@@ -88,7 +91,7 @@
       {
         "id": "43b8b5b11aec1999",
         "type": "tabs",
-        "dimension": 25.218658892128282,
+        "dimension": 22.521865889212826,
         "children": [
           {
             "id": "7d56bfbab329d8d1",
@@ -96,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01. Journal/2022/06 - June/2022-06-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,15 +126,14 @@
                 }
               }
             }
-          },
-          {
-            "id": "dbf4273d060d9bd1",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f1890e4f85260fa8",
+        "type": "tabs",
+        "dimension": 77.47813411078717,
+        "children": [
           {
             "id": "9b2f0d111f76feca",
             "type": "leaf",
@@ -140,22 +141,13 @@
               "type": "sekund-main-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "f1890e4f85260fa8",
-        "type": "tabs",
-        "dimension": 74.78134110787173,
-        "children": [
+          },
           {
             "id": "0c6024b9e5a37dae",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Journal/2022/06 - June/2022-06-29.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +158,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,15 +167,15 @@
   },
   "active": "49ee48ee191a4d34",
   "lastOpenFiles": [
-    "01. Journal/2022/06 - June/2022-06-29.md",
-    "01. Journal/2022/06 - June/2022-06-18.md",
-    "01. Journal/2022/06 - June/2022-06-13.md",
-    "00. Meta/03. Shared Knowledge/README.md",
-    "00. Meta/01. Template/00. Daily.md",
-    "00. Meta/01. Template/01. Concept.md",
-    "00. Meta/01. Template/02. Map of Content.md",
-    "00. Meta/01. Template/03. Domain.md",
     "00. Meta/01. Template/Note mover.md",
-    "Home.md"
+    "00. Meta/01. Template/03. Domain.md",
+    "00. Meta/01. Template/02. Map of Content.md",
+    "00. Meta/01. Template/01. Concept.md",
+    "00. Meta/01. Template/00. Daily.md",
+    "01. Journal/2022/06 - June/2022-06-18.md",
+    "01. Journal/2022/06 - June/2022-06-29.md",
+    "03. Projects/Placeholder.md",
+    "02. Knowledge/03. Domains/Placeholder.md",
+    "02. Knowledge/02. MOCS/Placeholder.md"
   ]
 }
